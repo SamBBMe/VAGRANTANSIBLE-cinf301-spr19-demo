@@ -9,6 +9,7 @@ to run, install these:
             NOTE: If you use a vps for this, you will need atleast 1+n cores, with n being the number of vagrant boxes you wish to use
         
 Your first steps:
+
     1 - Find a box that you want to use. Boxes pre-made OS configurations that you can use. 
         VAGRANT BOX SITE: https://app.vagrantup.com/boxes/search
 
