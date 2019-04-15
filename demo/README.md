@@ -1,4 +1,5 @@
 to run, install these:
+
     1: VAGRANT : https://www.vagrantup.com/downloads.html
                     OR through linux CLI command line: https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/
     2: ANSIBLE : https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
